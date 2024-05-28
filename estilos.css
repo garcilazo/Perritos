@@ -1,0 +1,45 @@
+/*Un comentario*/
+body{
+    background-color: rgb(233, 144, 93);
+    color: bisque;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif   ;
+    }
+
+    /*Si el titulo y algun encabeza o parrafo tendren el mismo color se pone 
+    h1, p{
+        color: brown;
+    }*/
+
+    h1{
+        color: brown;
+    }
+
+    p{
+        color: crimson;
+    }
+
+    /* . para que se diriga a la clase (class) de la imagen*/
+    .img1{
+        width: 300px;
+        height: 300px;
+        margin: 30px;
+        border-style: solid;
+        border-color: brown;
+        border-width: 10px;
+        padding: 30px;
+        border-radius: 35px;
+    }
+
+    .img2{
+        width: 220px;
+        height: 300px;
+        margin: 30px;
+        border-style: dotted;
+        border-width: 10px;
+        padding: 30px;
+        border-radius: 300px;
+    }
+/*para el link*/
+    a{
+        color: rgb(59, 17, 0);
+    }
